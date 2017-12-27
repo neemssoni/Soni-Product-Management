@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" id="svg1399" viewBox="0 0 393.75 416.25" version="1.0" y="0" x="0" inkscape:version="0.91 r13725">
+  <defs id="defs1402">
+    <linearGradient id="linearGradient2404">
+      <stop id="stop2406" style="stop-color:#7e0000" offset="0"/>
+      <stop id="stop2408" style="stop-color:#795e5e" offset=".5"/>
+      <stop id="stop2410" style="stop-color:#b34545" offset=".75"/>
+      <stop id="stop2412" style="stop-color:#5d5050" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2328">
+      <stop id="stop2330" style="stop-color:#c80000" offset="0"/>
+      <stop id="stop2336" style="stop-color:#780101" offset=".5"/>
+      <stop id="stop2338" style="stop-color:#ee5353" offset=".75"/>
+      <stop id="stop2332" style="stop-color:#c40404" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3156" y2="500.48" gradientUnits="userSpaceOnUse" y1="470.48" gradientTransform="matrix(.92905 .037636 -.037636 .92905 -48.329 -242.33)" x2="324.44" x1="308.25">
+      <stop id="stop6957" style="stop-color:#5b390e" offset="0"/>
+      <stop id="stop6971" style="stop-color:#b59147" offset=".5"/>
+      <stop id="stop6973" style="stop-color:#504018" offset=".75"/>
+      <stop id="stop6959" style="stop-color:#a58323" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3158" y2="134.07" xlink:href="#linearGradient2404" gradientUnits="userSpaceOnUse" y1="85.549" x2="405.8" x1="485.42"/>
+    <linearGradient id="linearGradient3180" y2="158.39" xlink:href="#linearGradient2328" gradientUnits="userSpaceOnUse" y1="129.02" x2="391.56" x1="378.03"/>
+    <linearGradient id="linearGradient3182" y2="120.53" xlink:href="#linearGradient2328" gradientUnits="userSpaceOnUse" y1="99.225" x2="453.62" x1="408.97"/>
+  </defs>
+  <g id="g3140" transform="matrix(.28719 .95787 -.95787 .28719 311.74 -108.46)">
+    <path id="path6227" style="fill-rule:evenodd;stroke:#000000;stroke-width:2;fill:url(#linearGradient3156)" d="m347.59 157.44l-323.53 159.72c-0.002 0-4.323 3.42-1.857 8.17 2.466 4.76 8.554 2.15 8.554 2.15l324.96-162.32-8.13-7.72z"/>
+    <path id="path2354" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m398.47 117.8l34.26-56.436s1.16-2.303 4.9-4.318c3.74-2.016 10.08-5.471 10.08-5.471l2.59 2.304s-12.1 4.03-14.69 8.349-34.26 57.872-34.26 57.872l-2.88-2.3z"/>
+    <path id="path2356" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m456.92 55.03s-12.67 7.486-16.12 11.517c-3.46 4.031-40.6 53.843-40.6 53.843l2.3 1.15s37.72-51.538 42.04-54.705 14.68-9.214 14.68-9.214l-2.3-2.591z"/>
+    <path id="path2358" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m465.56 59.637s-13.82 8.637-19.58 14.683c-5.76 6.047-44.34 48.37-44.34 48.37l3.45 0.58s43.19-46.934 50.1-51.829c6.91-4.894 13.25-9.789 13.25-9.789l-2.88-2.015z"/>
+    <path id="path2360" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m405.96 123.84s47.22-42.034 52.97-45.777c5.76-3.743 15.26-9.213 15.26-9.213l1.73 2.879s-12.96 6.622-16.7 9.501-51.53 44.91-51.53 44.91l-1.73-2.3z"/>
+    <path id="path2362" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m408.26 126.43s51.54-38.002 58.45-41.169 14.39-7.198 14.39-7.198l0.87 3.455s-13.53 6.334-21.88 12.093c-8.35 5.758-50.1 34.839-50.1 34.839l-1.73-2.02z"/>
+    <path id="path2364" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m410.56 127.58s54.71-29.939 60.75-32.53c6.05-2.591 14.98-6.334 14.98-6.334l0.86 3.167s-27.35 12.957-32.53 15.837c-5.19 2.88-43.48 23.03-43.48 23.03l-0.58-3.17z"/>
+    <path id="path2366" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m412 131.04l79.18-33.399 0.86 3.459-79.17 32.82-0.87-2.88z"/>
+    <path id="path2368" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m413.16 134.78s57.58-17.56 63.62-19.86c6.05-2.31 17.28-6.63 17.28-6.63l1.15 3.75s-12.96 5.47-20.73 7.77-60.17 17.56-60.17 17.56l-1.15-2.59z"/>
+    <path id="path2370" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m414.31 137.95s55.28-11.23 62.76-12.96c7.49-1.72 20.44-6.33 20.44-6.33l0.29 3.74s-15.83 5.18-23.61 6.91c-7.77 1.73-60.17 11.52-60.17 11.52l0.29-2.88z"/>
+    <path id="path2372" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m414.6 141.4s53.84-2.87 63.34-4.89 21.88-5.76 21.88-5.76l0.57 3.74s-14.68 4.61-20.44 5.47c-5.76 0.87-65.35 4.32-65.35 4.32v-2.88z"/>
+    <path id="path2374" style="fill-rule:evenodd;stroke:#000000;fill:url(#linearGradient3158)" d="m414.6 146.3s63.05-0.86 67.37-1.44 17.85-3.46 17.85-3.46v4.61s-10.66 1.73-17.85 2.88c-7.2 1.15-67.95-0.29-67.95-0.29l0.58-2.3z"/>
+    <path id="path1597" style="fill-rule:evenodd;stroke:#000000;stroke-width:2;fill:url(#linearGradient3180)" d="m344.92 157.82s31.38-12.38 34.84-15.26c3.45-2.88 18.71-25.34 18.71-25.34s10.65 4.03 14.4 12.96c3.74 8.92 2.59 19.29 2.59 19.29s-26.2-2.02-34.26 2.59c-8.06 4.6-30.81 16.98-30.81 16.98s1.44-2.88-0.29-6.04c-1.72-3.17-4.6-4.61-5.18-5.18z"/>
+    <path id="path1599" style="fill-rule:evenodd;stroke:#000000;stroke-width:2;fill:url(#linearGradient3182)" d="m411.43 93.899l3.17-4.91s14.73 13.931 23.32 29.091c9.51 16.8 12.38 32.25 12.38 32.25l-6.05 0.29s-2.88-13.82-12.38-29.95c-9.5-16.12-20.15-26.771-20.44-26.771z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Leaf Rake</dc:title>
+        <dc:date>2009-05-24T00:17:30</dc:date>
+        <dc:description>A leaf rake from Benji Park. From old OCAL site.</dc:description>
+        <dc:source>https://openclipart.org/detail/26215/leaf-rake-by-anonymous</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>garden</rdf:li>
+            <rdf:li>leaf</rdf:li>
+            <rdf:li>rake</rdf:li>
+            <rdf:li>tool</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

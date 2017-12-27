@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Soni Product Management</title>
+
+    <!-- Style sheets -->
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <!--<link rel="stylesheet" href="css/toastr.css" />-->
+</head>
+
+<body ng-app="productManagement">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <a class="navbar-brand" ui-sref="home">Soni Product Management</a>
+            <div class="navbar-header">
+                <button type="button"
+                class="navbar-toggle"
+                data-toggle="collapse"
+                data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a ui-sref="productList">Product List</a></li>
+                <li><a ui-sref="productEdit.info({productId:0})">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    Add Product</a></li>
+                <!--<li><a ui-sref="priceAnalytics">
+                    Price Analytics</a></li>
+                </ul>-->
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container">
+        <div ui-view></div>
+    </div>
+
+
+<!-- JQUERY -->
+<script src="js/jquery.js"></script>
+
+<!-- Library Scripts -->
+
+<!-- ANGULAR JS -->
+<script src="js/angular.js"></script>
+<script src="js/angular-resource.js"></script>
+<script src="js/angular-mocks.js"></script>
+<script src="js/ui-bootstrap-tpls-0.11.0.js"></script>
+
+<!-- ANGULAR JS UI -->
+<script src="js/angular-ui-router.js"></script>
+
+<!-- BOOTSTRAP JS -->
+<script src="js/bootstrap.js"></script>
+
+<!-- for masking -->
+<script src="js/ui-utils.js"></script>
+
+<!-- for calendar -->
+<script src="js/ui-bootstrap-tpls-0.11.0.js"></script>
+
+<!-- for messages https://github.com/CodeSeven/toastr -->
+<script src="js/toastr.js"></script>
+
+<!-- Visualizing Data With Charts -->
+
+<!-- http://chinmaymk.github.io/angular-charts/ -->
+<!--<script src="js/d3.js"></script>-->
+<script src="js/angular-charts.min.js"></script>
+
+
+<!-- Application Script -->
+<script src="app/app.js"></script>
+
+<!-- SERVICES -->
+
+<script src="common/services/common.services.js"></script>
+<script src="common/services/productResource.js"></script>
+<script src="common/services/productResourceMock.js"></script>
+<script src="common/services/productService.js"></script>
+
+<!-- CONTROLLERS -->
+
+<!-- Product Controllers -->
+<script src="app/products/productListCtrl.js"></script>
+<script src="app/products/productDetailCtrl.js"></script>
+<script src="app/products/productEditCtrl.js"></script>
+
+
+<!-- Price Controllers -->
+<script src="app/prices/priceAnalyticsCtrl.js"></script>
+
+
+</body>
+
+</html>
